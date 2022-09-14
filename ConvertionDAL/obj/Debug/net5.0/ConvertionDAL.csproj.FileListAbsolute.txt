@@ -1,0 +1,14 @@
+C:\Users\padma\source\repos\ConvertionDAL\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\padma\source\repos\ConvertionDAL\bin\Debug\net5.0\appsettings.json
+C:\Users\padma\source\repos\ConvertionDAL\bin\Debug\net5.0\ConvertionDAL.deps.json
+C:\Users\padma\source\repos\ConvertionDAL\bin\Debug\net5.0\ConvertionDAL.dll
+C:\Users\padma\source\repos\ConvertionDAL\bin\Debug\net5.0\ref\ConvertionDAL.dll
+C:\Users\padma\source\repos\ConvertionDAL\bin\Debug\net5.0\ConvertionDAL.pdb
+C:\Users\padma\source\repos\ConvertionDAL\obj\Debug\net5.0\ConvertionDAL.csproj.AssemblyReference.cache
+C:\Users\padma\source\repos\ConvertionDAL\obj\Debug\net5.0\ConvertionDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\source\repos\ConvertionDAL\obj\Debug\net5.0\ConvertionDAL.AssemblyInfoInputs.cache
+C:\Users\padma\source\repos\ConvertionDAL\obj\Debug\net5.0\ConvertionDAL.AssemblyInfo.cs
+C:\Users\padma\source\repos\ConvertionDAL\obj\Debug\net5.0\ConvertionDAL.csproj.CoreCompileInputs.cache
+C:\Users\padma\source\repos\ConvertionDAL\obj\Debug\net5.0\ConvertionDAL.dll
+C:\Users\padma\source\repos\ConvertionDAL\obj\Debug\net5.0\ref\ConvertionDAL.dll
+C:\Users\padma\source\repos\ConvertionDAL\obj\Debug\net5.0\ConvertionDAL.pdb
